@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-shopping-api",
+  "version": "1.0.0",
+  "description": "A simple NodeJS Shopping API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shahzar",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.0"
+  }
+}
